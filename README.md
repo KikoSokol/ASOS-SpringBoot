@@ -3,6 +3,7 @@
 ## Prílohy
 
 [Dokumentácia](attachments/asos.pdf)
+
 [Prezentácia](attachments/prezentacia.pdf)
 
 ## Otázka ku skúške 
