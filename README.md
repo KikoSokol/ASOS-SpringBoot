@@ -1,7 +1,7 @@
 # Spring: Difference between Spring MVC and Spring Boot
 
-## Dokumentácia
-[MIT](https://choosealicense.com/licenses/mit/)
+## Prílohy
+[Dokumentácia](attachments/asos.pdf)
 
 ## Popis 
 
