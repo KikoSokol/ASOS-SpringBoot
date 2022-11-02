@@ -10,12 +10,12 @@ Popis sem
 
 ## Class diagram
 
-![Class diagram](images/experiment%201.png?raw=true "Class diagram")
+![Class diagram](attachments/experiment%201.png?raw=true "Class diagram")
 
 ## Use case diagram
 
-![Use case diagram](images/experiment%201.png?raw=true "Use case diagram")
+![Use case diagram](attachments/experiment%201.png?raw=true "Use case diagram")
 
 ## Screenshot aplikácie
 
-![Screenshot aplikácie](images/experiment%201.png?raw=true "Screenshot aplikácie")
+![Screenshot aplikácie](attachments/experiment%201.png?raw=true "Screenshot aplikácie")
