@@ -10,11 +10,11 @@ Popis sem
 
 ## Class diagram
 
-![Class diagram](attachments/experiment%201.png?raw=true "Class diagram")
+![Class diagram](attachments/class.png?raw=true "Class diagram")
 
 ## Use case diagram
 
-![Use case diagram](attachments/experiment%201.png?raw=true "Use case diagram")
+![Use case diagram](attachments/use-case.png?raw=true "Use case diagram")
 
 ## Screenshot aplikácie
 
