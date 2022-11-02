@@ -1,7 +1,6 @@
 # Spring: Difference between Spring MVC and Spring Boot
 
-## Prílohy
-[Dokumentácia](attachments/asos.pdf)
+## [Dokumentácia](attachments/asos.pdf)
 
 ## Popis 
 
