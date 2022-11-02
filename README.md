@@ -1,5 +1,14 @@
 # Spring: Difference between Spring MVC and Spring Boot
 
+Autori:
+
+- Michal Rendek
+- Simona Richterová
+- Kristián Sokol
+- Barbora Ulrichová
+- Edita Včelková
+
+
 ## Prílohy
 
 [Dokumentácia](attachments/asos.pdf)
