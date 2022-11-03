@@ -41,3 +41,5 @@ Softvér sme vyhotovili v dvoch verziách. Pri jednej verzií sme vytvorili soft
 ## Screenshot aplikácie
 
 ![Screenshot aplikácie](attachments/screenshot.png?raw=true "Screenshot aplikácie")
+
+Link na [MVC](https://github.com/KikoSokol/ASOS-SpringMVC) verziu
